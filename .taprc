@@ -4,3 +4,4 @@ jsx: false
 flow: false
 coverage: true
 check-coverage: true
+yellow: green
